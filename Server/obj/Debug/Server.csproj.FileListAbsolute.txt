@@ -1,0 +1,36 @@
+C:\Users\CyberCode\Desktop\TCP Chat\Server\bin\Debug\Server.exe
+C:\Users\CyberCode\Desktop\TCP Chat\Server\bin\Debug\Server.pdb
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.Main.resources
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.exe
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.pdb
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.exe
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.pdb
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\bin\Debug\Server.exe
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\bin\Debug\Server.pdb
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.Main.resources
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Client.PrivateChat.resources
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\CyberCode\Desktop\TCP Chat\Server\obj\Debug\Server.PrivateChat.resources
+C:\Users\Bogdy\Desktop\TCP Chat\Server\obj\Debug\Server.exe
+C:\Users\Bogdy\Desktop\TCP Chat\Server\obj\Debug\Server.pdb
+C:\Users\Bogdy\Desktop\TCP Chat\Server\bin\Debug\Server.exe
+C:\Users\Bogdy\Desktop\TCP Chat\Server\bin\Debug\Server.pdb
+C:\Users\Bogdy\Desktop\TCP Chat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Bogdy\Desktop\TCP Chat\Server\obj\Debug\Server.Main.resources
+C:\Users\Bogdy\Desktop\TCP Chat\Server\obj\Debug\Server.PrivateChat.resources
+C:\Users\Bogdy\Desktop\TCP Chat\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Bogdy\Desktop\TCP Chat\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Facultate\C#\Chat\Server\obj\Debug\Server.exe
+D:\Facultate\C#\Chat\Server\obj\Debug\Server.pdb
+D:\Facultate\C#\Chat\Server\bin\Debug\Server.exe
+D:\Facultate\C#\Chat\Server\bin\Debug\Server.pdb
+D:\Facultate\C#\Chat\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Facultate\C#\Chat\Server\obj\Debug\Server.Main.resources
+D:\Facultate\C#\Chat\Server\obj\Debug\Server.PrivateChat.resources
+D:\Facultate\C#\Chat\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Facultate\C#\Chat\Server\obj\Debug\Server.csproj.GenerateResource.Cache

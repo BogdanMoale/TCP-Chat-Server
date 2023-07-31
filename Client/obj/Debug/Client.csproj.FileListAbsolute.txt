@@ -1,0 +1,42 @@
+C:\Users\CyberCode\Desktop\TCP Chat\Client\Client\bin\Debug\Client.exe
+C:\Users\CyberCode\Desktop\TCP Chat\Client\Client\obj\Debug\Client.Main.resources
+C:\Users\CyberCode\Desktop\TCP Chat\Client\Client\obj\Debug\Client.PrivateChat.resources
+C:\Users\CyberCode\Desktop\TCP Chat\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\CyberCode\Desktop\TCP Chat\Client\Client\obj\Debug\Client.PublicChat.resources
+C:\Users\CyberCode\Desktop\TCP Chat\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\CyberCode\Desktop\TCP Chat\Client\Client\obj\Debug\Client.exe
+C:\Users\CyberCode\Desktop\TCP Chat\Client\Client\obj\Debug\Client.pdb
+C:\Users\CyberCode\Desktop\TCP Chat\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\CyberCode\Desktop\TCP Chat\Client\Client\bin\Debug\Client.pdb
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Client\bin\Debug\Client.exe
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Client\bin\Debug\Client.pdb
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Client\obj\Debug\Client.LoginForm.resources
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Client\obj\Debug\Client.exe
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Client\obj\Debug\Client.pdb
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Client\obj\Debug\Client.PrivateChatForm.resources
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Client\obj\Debug\Client.PublicChatForm.resources
+C:\Users\Brian Ferguson\Desktop\TCP Chat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\CyberCode\Desktop\TCP Chat\Client\obj\Debug\Client.exe
+C:\Users\CyberCode\Desktop\TCP Chat\Client\obj\Debug\Client.pdb
+C:\Users\CyberCode\Desktop\TCP Chat\Client\bin\Debug\Client.exe
+C:\Users\CyberCode\Desktop\TCP Chat\Client\bin\Debug\Client.pdb
+C:\Users\CyberCode\Desktop\TCP Chat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\CyberCode\Desktop\TCP Chat\Client\obj\Debug\Client.LoginForm.resources
+C:\Users\CyberCode\Desktop\TCP Chat\Client\obj\Debug\Client.PrivateChatForm.resources
+C:\Users\CyberCode\Desktop\TCP Chat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\CyberCode\Desktop\TCP Chat\Client\obj\Debug\Client.PublicChatForm.resources
+C:\Users\CyberCode\Desktop\TCP Chat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Bogdy\Desktop\TCP Chat\Client\obj\Debug\Client.exe
+C:\Users\Bogdy\Desktop\TCP Chat\Client\obj\Debug\Client.pdb
+C:\Users\Bogdy\Desktop\TCP Chat\Client\bin\Debug\Client.exe
+C:\Users\Bogdy\Desktop\TCP Chat\Client\bin\Debug\Client.pdb
+C:\Users\Bogdy\Desktop\TCP Chat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Bogdy\Desktop\TCP Chat\Client\obj\Debug\Client.LoginForm.resources
+C:\Users\Bogdy\Desktop\TCP Chat\Client\obj\Debug\Client.PrivateChatForm.resources
+C:\Users\Bogdy\Desktop\TCP Chat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Bogdy\Desktop\TCP Chat\Client\obj\Debug\Client.PublicChatForm.resources
+C:\Users\Bogdy\Desktop\TCP Chat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+D:\Facultate\C#\Chat\Client\obj\Debug\Client.exe
+D:\Facultate\C#\Chat\Client\obj\Debug\Client.pdb
